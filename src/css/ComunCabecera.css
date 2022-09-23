@@ -1,0 +1,15 @@
+.ComunCabecera{
+  background-image: url(https://ae01.alicdn.com/kf/HTB1a182XcTxK1Rjy0Fgq6yovpXaJ/Bacaz-Grey-Yellow-Lines-8D-3D-Geometry-Wallpaper-Murals-for-Living-Room-Background-3D-Geometry-Mural.jpg);
+  background-color: rgb(128, 128, 128);
+	margin: auto;
+	border-radius: 5px;
+  box-shadow: 0px 0px 10px #000;
+}
+ .Nom{
+
+   text-align: center;
+ }
+
+ h3{
+  text-align: center;
+ }

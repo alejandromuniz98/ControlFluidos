@@ -1,0 +1,15 @@
+.complet {
+    background-color:rgb(211, 198, 198);
+}
+
+.nocomplet {
+    background-color:white;
+}
+
+.ordFin{
+    border: 1px solid grey;
+    background-color:rgb(211, 198, 198);
+    float: right;
+}
+
+
